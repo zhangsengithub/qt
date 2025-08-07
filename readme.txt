@@ -19,3 +19,5 @@ curl --socks5 127.0.0.1:1086 https://ipinfo.io
   "password" : "zhangsen",
   "local_address" : "127.0.0.1"
 }
+
+shift + command + 5 截屏
